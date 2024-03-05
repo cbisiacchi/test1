@@ -1,19 +1,21 @@
 body {
-    background-color: #d8f1f9;
     margin: 0 10%;
     font-family: sans-serif;
 }
 
 h1 {
-    text-align: center;
-    font-family: serif;
-    font-weight: normal;
-    text-transform: uppercase;
-    border-bottom: 1px solid #57b1dc;
-    margin-top: 30px;
+    font-size: 2rem;
 }
 
 h2 {
-    color: #084a9a;
-    font-size: 1em;
+   font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.25rem;
+}
+
+.circle {
+    border-radius: 50%;
+    border: 5xp solid #9abcf8;
 }
