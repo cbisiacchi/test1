@@ -3,6 +3,11 @@ body {
     font-family: sans-serif;
 }
 
+header {
+    background-color: #3ae1fb;
+    color: white;
+}
+
 h1 {
     font-size: 2rem;
     color: #000000;
