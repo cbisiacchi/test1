@@ -1,11 +1,12 @@
 body {
     margin: 0 10%;
     font-family: sans-serif;
-    background-image: radial-gradient(circle, rgba(0,212,255,0.7525603991596639) 0%, rgba(9,9,121,0.43323266806722693) 100%, rgba(2,0,36,1) 100%), url("../moroccan-flower-dark.png");
-    back
-
+    background-image: url("../moroccan-flower-dark.png");
 }
 
+.container {
+    background-color: white;
+}
 header {
     background-color: #3ae1fb;
     color: white;
