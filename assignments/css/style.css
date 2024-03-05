@@ -6,6 +6,7 @@ body {
 
 .container {
     background-color: rgb(193, 237, 255);
+    padding: 1rem;
 }
 
 header {
