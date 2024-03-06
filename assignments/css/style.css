@@ -42,5 +42,5 @@ h3 {
     grid-template-columns: repeat(12, 1fr);
 }
 .container > * {
-    grid-column: 12;
+    grid-column: span 12;
 }
