@@ -65,3 +65,9 @@ a:hover {
         grid-column: span 4;
     }
 }
+
+/******* Components *******/
+.button {
+    color: white;
+    background-color: #3ae1fb;
+}
