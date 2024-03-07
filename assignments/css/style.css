@@ -32,6 +32,16 @@ h3 {
     border: 5px solid #3ae1fb;
 }
 
+a:link {
+    color: #3ae1fb;
+    text-decoration: none;
+}
+a:hover {
+    color: #2ab3c8;
+    text-decoration: underline;
+}
+
+
 /******* Layout *******/
 .container {
     background-color: rgb(193, 237, 255);
