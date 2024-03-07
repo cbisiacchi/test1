@@ -32,7 +32,7 @@ h3 {
     border: 5px solid #3ae1fb;
 }
 
-a:link {
+a:link, a:visited {
     color: #3ae1fb;
     text-decoration: none;
 }
