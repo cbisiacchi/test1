@@ -67,7 +67,7 @@ a:hover {
 }
 
 /******* Components *******/
-.button {
+.button:link, .button:visited {
     color: white;
     background-color: #3ae1fb;
 }
