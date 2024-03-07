@@ -70,4 +70,9 @@ a:hover {
 .button:link, .button:visited {
     color: white;
     background-color: #3ae1fb;
+    text-align: center;
+    text-decoration: none;
+    padding: 1rem 1.75rem;
+    border-radius: 2rem;
+    box-shadow: o .125rem .5rem rgba(0, 0, 0, .15);
 }
