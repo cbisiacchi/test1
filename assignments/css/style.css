@@ -44,7 +44,7 @@ a:hover {
 
 /******* Layout *******/
 .container {
-    background-color: rgb(193, 237, 255);
+    background-color: rgb(224, 243, 251);
     padding: 1rem;
     display: grid;
     gap: 1.5rem;
