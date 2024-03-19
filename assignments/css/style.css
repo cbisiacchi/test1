@@ -68,7 +68,7 @@ a:hover {
 
 /******* Navigation Using Flexbox *******/
 nav {
-    background-color: #324790;
+    background-color: rgb(36, 68, 116);
     padding: 0 1rem;
     display: flex;
     justify-content: center;
