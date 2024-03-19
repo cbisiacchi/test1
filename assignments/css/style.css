@@ -89,7 +89,7 @@ nav li {
 }
 
 nav a:link, nav a:visited {
-    color: #3ae1fb;
+    color: #ffffff;
     text-decoration: none;
     font-size: 1.125rem;
     padding: 1rem;
@@ -97,8 +97,8 @@ nav a:link, nav a:visited {
 }
 
 nav a:hover {
-    background-color: #2ab3c8;
-    color: #3ae1fb;
+    background-color: #3ae1fb;
+    color: #ffffff;
     transition: ease-in-out 250ms;
 }
 
