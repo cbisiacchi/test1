@@ -84,6 +84,18 @@ nav ul {
     flex-flow: row wrap;
 }
 
+nav li {
+    margin: 0 0.5rem;
+}
+
+nav a:link, nav a:visited {
+    color: #2ab3c8;
+    text-decoration: none;
+    font-size: 1.125rem;
+    padding: 1rem;
+    display: block;
+}
+
 /******* Components *******/
 .button:link, .button:visited {
     color: white;
