@@ -74,7 +74,14 @@ nav {
     justify-content: center;
     position: sticky;
     top: 0;
-    
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-flow: row wrap;
 }
 
 /******* Components *******/
