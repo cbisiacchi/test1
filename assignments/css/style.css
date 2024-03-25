@@ -60,16 +60,6 @@ a:hover {
     grid-column: span 12;
 }
 
-/* Desktop Layout */
-@media  screen and (min-width: 40rem) {
-    .col-span-8 {
-        grid-column: span 8;
-    }
-    .col-span-4 {
-        grid-column: span 4;
-    }
-}
-
 /******* Navigation Using Flexbox *******/
 nav {
     background-color: rgb(36, 68, 116);
@@ -122,4 +112,21 @@ nav a:hover {
 
 .button:hover {
     background-color: #2ab3c8;
+}
+
+.card {
+    text-align: center;
+    margin: 1rem;
+    padding-bottom: 2rem;
+    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
+}
+
+/* Desktop Layout */
+@media  screen and (min-width: 40rem) {
+    .col-span-8 {
+        grid-column: span 8;
+    }
+    .col-span-4 {
+        grid-column: span 4;
+    }
 }
