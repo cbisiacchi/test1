@@ -12,6 +12,7 @@ header {
     background-color: #3ae1fb;
     color: white;
     padding: 2rem;
+    display: inline-block;
 }
 
 h1 {
