@@ -26,8 +26,14 @@ img {
     max-width: 100%;
 }
 
-.box {
+.box1 {
     margin: 1rem 1rem 0 0;
+}
+
+.box2 {
+    margin: 1rem 1rem 0 0;
+    background-color: rgb(76, 92, 101);
+    color: white;
 }
 
 .circle {
