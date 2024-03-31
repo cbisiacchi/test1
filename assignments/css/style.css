@@ -63,8 +63,7 @@ a:hover {
 
 /******* Navigation Using Flexbox *******/
 nav {
-    background-color: rgb(36, 68, 116);
-    padding: 0 1rem;
+    background-color: rgb(247, 247, 247);
     display: flex;
     justify-content: center;
     position: sticky;
@@ -84,7 +83,7 @@ nav li {
 }
 
 nav a:link, nav a:visited {
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
     font-size: 1.125rem;
     padding: 1rem;
@@ -92,8 +91,9 @@ nav a:link, nav a:visited {
 }
 
 nav a:hover {
-    background-color: #3ae1fb;
-    color: #ffffff;
+    text-decoration: underline;
+    text-decoration-color: rgb(189, 160, 83);
+    color: #000000;
     transition: ease-in-out 250ms;
 }
 
