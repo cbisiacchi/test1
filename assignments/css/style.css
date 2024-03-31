@@ -3,13 +3,8 @@
     font-family: sans-serif;
 }
 
-body {
-    margin: 0;
-    background-image: url("../moroccan-flower-dark.png");
-}
 
 header {
-    background-color: #3ae1fb;
     color: white;
     padding: 2rem;
     display: inline-block;
@@ -49,7 +44,7 @@ a:hover {
 
 /******* Layout *******/
 .container {
-    background-color: rgb(224, 243, 251);
+    background-color: rgb(247, 247, 247);
     padding: 1rem;
     display: grid;
     gap: 1.5rem;
@@ -65,7 +60,7 @@ a:hover {
 nav {
     background-color: rgb(247, 247, 247);
     display: flex;
-    justify-content: center;
+    justify-content: left;
     position: sticky;
     top: 0;
 }
