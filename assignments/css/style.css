@@ -26,6 +26,10 @@ img {
     max-width: 100%;
 }
 
+.box {
+    margin: 1rem 1rem 0 0;
+}
+
 .circle {
     border-radius: 50%;
     border: 5px solid #3ae1fb;
