@@ -27,11 +27,11 @@ img {
 }
 
 .box1 {
-    margin: 1rem 1rem 0 0;
+    margin: 0.5rem 0 0.5rem 0;
 }
 
 .box2 {
-    margin: 1rem 1rem 0 0;
+    margin: 0.5rem 0 0.5rem 0;
     background-color: rgb(76, 92, 101);
     color: white;
 }
@@ -54,12 +54,9 @@ a:hover {
 /******* Layout *******/
 .container {
     background-color: rgb(247, 247, 247);
-    padding: 1rem;
     display: grid;
-    gap: 1.5rem;
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
-    width: min(95%, 75rem);
 }
 .container > * {
     grid-column: span 12;
