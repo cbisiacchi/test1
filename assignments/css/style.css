@@ -105,7 +105,6 @@ nav a:hover {
     text-decoration: underline;
     text-decoration-color: rgb(189, 160, 83);
     color: #000000;
-    transition: ease-in-out 250ms;
 }
 
 /******* Components *******/
