@@ -105,20 +105,10 @@ nav a:hover {
 
 /******* Components *******/
 .button:link, .button:visited {
-    color: white;
-    background-color: #3ae1fb;
+    color: rgb(0, 0, 0);
     text-align: center;
-    text-decoration: none;
-    padding: 1rem 1.75rem;
-    border-radius: 2rem;
-    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
-    display: inline-block;
-    margin: 0 .25rem .25rem 0;
+    text-decoration: underline;
     transition: background-color 0.5s ease;
-}
-
-.button:hover {
-    background-color: #2ab3c8;
 }
 
 .card {
