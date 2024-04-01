@@ -52,11 +52,9 @@ img {
 }
 
 a:link, a:visited {
-    color: #3ae1fb;
     text-decoration: none;
 }
 a:hover {
-    color: #2ab3c8;
     text-decoration: underline;
 }
 
