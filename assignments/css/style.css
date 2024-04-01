@@ -137,6 +137,7 @@ nav a:hover {
     padding: 0 2rem 0.5rem;
 }
 
+
 /* Desktop Layout */
 @media  screen and (min-width: 40rem) {
     .col-span-8 {
