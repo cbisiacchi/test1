@@ -123,9 +123,8 @@ nav a:hover {
 
 .card {
     text-align: center;
-    margin: 1rem;
+    margin: 0.3rem;
     padding-bottom: 2rem;
-    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
 }
 
 .card-title {
