@@ -42,7 +42,7 @@ img {
     background-color: rgb(76, 92, 101);
     color: white;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: baseline;
 }
 
