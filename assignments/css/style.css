@@ -41,6 +41,9 @@ img {
     margin: 0.5rem 0 0.5rem 0;
     background-color: rgb(76, 92, 101);
     color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 .circle {
