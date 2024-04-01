@@ -150,10 +150,12 @@ nav a:hover {
     .work-section {
         display: flex;
         justify-content: center;
-        flex-flow: row wrap;
+        overflow-x: scroll;
     }
 
     .card {
         flex-basis: 27.5%;
     }
+
+    
 }
