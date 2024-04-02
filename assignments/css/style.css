@@ -173,7 +173,8 @@ nav a:hover {
     }
 
     .card {
-        flex-basis: 30%;
+        /* flex-basis: 30%; */
+        flex: 1 0 12%;
     }
 
     .col-span-2 {
@@ -181,4 +182,8 @@ nav a:hover {
         align-items: center;
     }
 
+}
+
+.small-book {
+    flex: 1;
 }
