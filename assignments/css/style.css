@@ -170,12 +170,11 @@ nav a:hover {
 
     .work-section {
         display: flex;
-        justify-content: center;
+        justify-content: start;
         overflow-x: scroll;
     }
 
     .card {
-        /* flex-basis: 30%; */
         flex: 1 0 12%;
     }
 
