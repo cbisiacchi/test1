@@ -52,6 +52,10 @@ img {
     align-items: baseline;
 }
 
+.box3 {
+    margin-top: 3rem;
+}
+
 .box4 {
     background-color: rgb(247, 247, 247);
     display: grid;
