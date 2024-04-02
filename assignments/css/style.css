@@ -46,6 +46,13 @@ img {
     align-items: baseline;
 }
 
+.title {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
 .circle {
     border-radius: 50%;
     border: 5px solid #3ae1fb;
