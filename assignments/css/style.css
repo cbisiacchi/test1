@@ -181,6 +181,7 @@ nav a:hover {
     .col-span-2 {
         grid-column: span 2;
         align-items: center;
+        margin-right: 8rem;
     }
 
 }
