@@ -46,6 +46,13 @@ img {
     align-items: baseline;
 }
 
+.box4 {
+    background-color: rgb(247, 247, 247);
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    margin: 0 auto;
+}
+
 .title {
     color: rgb(0, 0, 0);
     display: flex;
