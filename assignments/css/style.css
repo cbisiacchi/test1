@@ -164,6 +164,8 @@ nav a:hover {
     .col-span-4 {
         grid-column: span 4;
         display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
     }
 
     .work-section {
@@ -185,5 +187,5 @@ nav a:hover {
 }
 
 .small-book {
-    flex: 1;
+    flex: 1 1 200px;
 }
