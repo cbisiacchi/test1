@@ -56,7 +56,7 @@ img {
     background-color: rgb(247, 247, 247);
     display: grid;
     grid-template-columns: repeat(6, 1fr);
-    margin: 0 auto;
+    margin: 2rem auto;
 }
 
 .title {
