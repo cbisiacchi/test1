@@ -160,7 +160,7 @@ nav a:hover {
     }
     .col-span-4 {
         grid-column: span 4;
-        display: wrap;
+        display: flex;
     }
 
     .work-section {
