@@ -64,6 +64,11 @@ img {
     margin: 2rem auto;
 }
 
+.box5 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 .title {
     color: rgb(0, 0, 0);
     display: flex;
@@ -182,7 +187,7 @@ nav a:hover {
     .big-card {
         flex: 1 0 30%;
     }
-    
+
     .col-span-2 {
         grid-column: span 2;
         align-items: center;
