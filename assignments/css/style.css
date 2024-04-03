@@ -190,6 +190,12 @@ nav a:hover {
         margin-right: 1.5rem;
     }
 
+    .medium-card {
+        flex: 1 0 30%;
+        margin-right: 1.5rem;
+        text-align: left;
+    }
+
     .col-span-2 {
         grid-column: span 2;
         align-items: center;
