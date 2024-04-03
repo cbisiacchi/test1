@@ -179,6 +179,10 @@ nav a:hover {
         flex: 1 0 12%;
     }
 
+    .big-card {
+        flex: 1 0 30%;
+    }
+    
     .col-span-2 {
         grid-column: span 2;
         align-items: center;
