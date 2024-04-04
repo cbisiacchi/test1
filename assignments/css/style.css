@@ -111,6 +111,14 @@ a:hover {
     color: black;
 }
 
+.link2 a:link, .link2 a:visited {
+    text-decoration: none;
+    color: black;
+}
+.link2 a:hover {
+    text-decoration: none;
+    color: black;
+}
 
 /******* Layout *******/
 .container {
