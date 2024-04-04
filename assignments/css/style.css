@@ -10,6 +10,10 @@ header {
     align-items: baseline;
 }
 
+footer {
+    display: flex;
+}
+
 h1 {
     font-size: 2rem;
     color: #000000;
@@ -138,6 +142,20 @@ nav a:hover {
     text-decoration-color: rgb(189, 160, 83);
     transition: 0.25s;
 }
+
+.footer-nav a:link, .footer-nav:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 0.5rem;
+    padding: 1rem;
+    display: block;
+}
+
+.footer-nav a:hover {
+    text-decoration: underline;
+    transition: 0.25s;
+}
+
 
 /******* Components *******/
 .button:link, .button:visited {
