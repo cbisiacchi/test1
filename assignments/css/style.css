@@ -77,11 +77,21 @@ img {
     margin-bottom: 0;
 }
 
+.box6 {
+    display: flex;
+}
+
 .title {
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    margin: 5rem 0 0 0;
+}
+
+.title2 {
+    color: rgb(0, 0, 0);
+    text-align: center;
     margin: 5rem 0 0 0;
 }
 
