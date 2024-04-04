@@ -217,6 +217,13 @@ nav a:hover {
         overflow-x: scroll;
     }
 
+    .work-section-bnapp {
+        display: flex;
+        justify-content: start;
+        overflow-x: scroll;
+        margin-bottom: 6rem;
+    }
+
     .card {
         flex: 1 0 12%;
     }
