@@ -18,6 +18,10 @@ h2 {
     font-size: 1em;
 }
 
+header {
+    display: flex;
+}
+
 /******* Layout *******/
 .container {
     background-color: rgb(247, 247, 247);
