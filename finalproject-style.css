@@ -17,3 +17,14 @@ h2 {
     color: #084a9a;
     font-size: 1em;
 }
+
+/******* Layout *******/
+.container {
+    background-color: rgb(247, 247, 247);
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    margin: 0 auto;
+}
+.container > * {
+    grid-column: span 12;
+}
