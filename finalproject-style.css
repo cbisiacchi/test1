@@ -19,7 +19,7 @@ h2 {
 
 header {
     display: grid;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 /******* Layout *******/
@@ -31,6 +31,11 @@ header {
 }
 .container > * {
     grid-column: span 12;
+}
+
+.title {
+    display: grid;
+    justify-content: space-between;
 }
 
 /* Desktop Layout */
