@@ -18,7 +18,7 @@ h2 {
     font-size: 1em;
 }
 
-header {
+.header {
     display: grid;
     justify-content: space-between;
 }
