@@ -42,9 +42,11 @@ header {
 @media  screen and (min-width: 40rem) {
     .col-span-2 {
         grid-column: span 2;
+        justify-content: center;
     }
     .col-span-3 {
         grid-column: span 3;
+        justify-content: center;
     }
 
 }
