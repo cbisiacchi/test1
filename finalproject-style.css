@@ -19,7 +19,8 @@ h2 {
 }
 
 header {
-    display: flex;
+    display: grid;
+    justify-content: space-between;
 }
 
 /******* Layout *******/
@@ -46,9 +47,9 @@ header {
 
 /******* Navigation Using Flexbox *******/
 nav {
-    background-color: rgb(219, 252, 252);
+    background-color: rgb(247, 247, 247);
     display: flex;
-    justify-content: left;
+    justify-content: right;
     position: sticky;
     top: 0;
 }
