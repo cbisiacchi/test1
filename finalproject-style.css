@@ -51,6 +51,8 @@ header {
         grid-column: span 3;
         justify-self: center;
         grid-column-start: 3;
+        display: grid;
+        align-content: center;
     }
     
     .col-span-6 {
@@ -60,11 +62,10 @@ header {
 
 /******* Navigation Using Flexbox *******/
 nav {
-    background-color: rgb(247, 247, 247);
-    display: flex;
-    justify-content: right;
-    position: sticky;
-    top: 0;
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    grid-column-end: 12;
+    align-content: center;
 }
 
 nav ul {
