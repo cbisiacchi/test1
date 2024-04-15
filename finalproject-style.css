@@ -21,6 +21,10 @@ header {
     justify-content: space-evenly;
 }
 
+.introduction {
+    padding: 6rem;
+}
+
 /******* Layout *******/
 .container {
     background-color: rgb(247, 247, 247);
