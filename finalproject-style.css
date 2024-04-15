@@ -27,7 +27,7 @@ header {
 
 /******* Layout *******/
 .container {
-    background-color: rgb(247, 247, 247);
+    background-color: rgb(255, 255, 255);
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     margin: 0 auto;
