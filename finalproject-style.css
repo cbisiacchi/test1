@@ -16,6 +16,10 @@ h2 {
     font-size: 1em;
 }
 
+p {
+    text-align: justify;
+}
+
 img {
     max-width: 100%;
 }
