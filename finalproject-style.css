@@ -69,6 +69,7 @@ header {
     .img-col-span-3 {
         grid-column: span 3;
         grid-column-start: 3;
+        
     }
 }
 
