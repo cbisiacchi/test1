@@ -16,6 +16,10 @@ h2 {
     font-size: 1em;
 }
 
+img {
+    max-width: 100%;
+}
+
 header {
     display: grid;
     justify-content: space-evenly;
@@ -41,6 +45,23 @@ header {
     display: grid;
     padding: 6rem;
     justify-content: center;
+}
+
+.card {
+    text-align: center;
+    margin: 1rem;
+    padding-bottom: 2rem;
+    box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
+}
+
+.card-title {
+    margin: 0.75rem 0 0 0;
+    padding: 0 2rem 0.5rem;
+}
+
+.card-text {
+    margin: 0.5rem 0 1rem 0;
+    padding: 0 2rem 0.5rem;
 }
 
 /* Desktop Layout */
@@ -69,7 +90,13 @@ header {
     .img-col-span-3 {
         grid-column: span 3;
         grid-column-start: 3;
-        
+
+    }
+
+    .work-section {
+        display: flex;
+        justify-content: start;
+        overflow-x: scroll;
     }
 }
 
