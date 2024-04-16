@@ -53,9 +53,10 @@ header {
 }
 
 .card {
+    display: flex;
+    flex-direction: column;
     text-align: center;
     margin: 1rem;
-    padding-bottom: 2rem;
     box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
     flex: 1 0 25%;
     margin-left: 4rem;
@@ -79,6 +80,10 @@ header {
     text-align: center;
     margin: 0.5rem 0 1rem 0;
     padding: 0 2rem 0.5rem;
+}
+
+.card a.button {
+    margin-top: auto;
 }
 
 a.button {
