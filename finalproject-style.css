@@ -87,6 +87,10 @@ header {
     transition: 0.25s;
 }
 
+footer {
+    align-items: center;
+}
+
 /* Desktop Layout */
 @media  screen and (min-width: 40rem) {
     .col-span-2 {
