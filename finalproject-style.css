@@ -89,7 +89,8 @@ header {
     box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
 }
 
-.button a:link, button a:visited {
+.button:link,
+.button:visited {
     color: rgb(0, 0, 0);
     text-decoration: none;
     font-size: 1.125rem;
@@ -97,7 +98,7 @@ header {
     display: block;
 }
 
-.button a:hover {
+.button:hover {
     background-color: rgb(1, 75, 102);
     text-decoration: none;
     color: rgb(255, 255, 255);
