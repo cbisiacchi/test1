@@ -60,6 +60,7 @@ header {
     
     .col-span-6 {
         grid-column: span 6;
+        display: grid;
     }
 
     .img-col-span-6 {
