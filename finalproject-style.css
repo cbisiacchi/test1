@@ -21,11 +21,6 @@ header {
     justify-content: space-evenly;
 }
 
-.introduction {
-    padding: 6rem;
-    display: grid;
-}
-
 /******* Layout *******/
 .container {
     background-color: rgb(255, 255, 255);
@@ -40,6 +35,12 @@ header {
 .title {
     display: grid;
     justify-content: space-between;
+}
+
+.introduction {
+    display: grid;
+    padding: 6rem;
+    justify-content: center;
 }
 
 /* Desktop Layout */
