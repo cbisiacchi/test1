@@ -97,6 +97,10 @@ footer {
     text-align: center;
 }
 
+.footer-text {
+    text-align: center;
+}
+
 /* Desktop Layout */
 @media  screen and (min-width: 40rem) {
     .col-span-2 {
