@@ -101,7 +101,6 @@ header {
     .work-section {
         display: flex;
         justify-content: start;
-        flex-flow: row wrap;
         overflow-x: scroll;
     }
 }
