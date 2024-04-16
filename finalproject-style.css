@@ -43,6 +43,7 @@ header {
 
 .introduction {
     display: grid;
+    grid-template-columns: repeat(4, 1fr);
     padding: 6rem;
     justify-content: center;
 }
@@ -107,11 +108,20 @@ footer {
         margin-left: 2rem;
     }
 
-    .intro-col-span-3 {
-        grid-column: span 3;
+    .intro-col-span-2 {
+        grid-column: span 2;
         justify-self: center;
         display: grid;
         align-content: center;
+    }
+
+    .intro-img-col-span-2 {
+        grid-column: span 2;
+    }
+
+    .intro-img-col-span-2 img {
+        display: block;
+        margin: 0 auto;
     }
 
     .img-col-span-3 {
