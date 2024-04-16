@@ -57,14 +57,17 @@ header {
         align-content: center;
         margin-left: 2rem;
     }
-    
-    .col-span-6 {
-        grid-column: span 6;
+
+    .intro-col-span-3 {
+        grid-column: span 3;
+        justify-self: center;
+        display: grid;
+        align-content: center;
     }
 
-    .img-col-span-6 {
-        grid-column: span 6;
-        grid-column-start: 50%;
+    .img-col-span-3 {
+        grid-column: span 3;
+        grid-column-start: 3;
     }
 }
 
