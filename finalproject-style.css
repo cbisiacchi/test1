@@ -72,6 +72,14 @@ header {
     box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
 }
 
+.button a:link, a:visited {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 1.125rem;
+    padding: 1rem;
+    display: block;
+}
+
 .button a:hover {
     background-color: rgb(1, 75, 102);
     text-decoration: none;
