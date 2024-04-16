@@ -23,6 +23,7 @@ header {
 
 .introduction {
     padding: 6rem;
+    display: grid;
 }
 
 /******* Layout *******/
