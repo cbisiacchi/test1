@@ -72,6 +72,13 @@ header {
     box-shadow: 0 .125rem .5rem rgba(0, 0, 0, .15);
 }
 
+.button a:hover {
+    background-color: rgb(1, 75, 102);
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    transition: 0.25s;
+}
+
 /* Desktop Layout */
 @media  screen and (min-width: 40rem) {
     .col-span-2 {
