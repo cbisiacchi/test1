@@ -71,6 +71,10 @@ header {
     object-position: center;
 }
 
+.card img:hover {
+    transition: ease-in-out;
+}
+
 .card-title {
     margin: 0.75rem 0 0 0;
     padding: 0 2rem 0.5rem;
