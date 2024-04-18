@@ -1,11 +1,10 @@
 body {
     background-color: rgb(255, 255, 255);
-    font-family: sans-serif;
+    font-family: fantasy;
 }
 
 h1 {
     text-align: left;
-    font-family: serif;
     font-weight: normal;
     text-transform: uppercase;
     margin-top: 30px;
@@ -13,7 +12,7 @@ h1 {
 
 h2 {
     color: #000000;
-    font-size: 1em;
+    font-size: 1.30rem;
 }
 
 p {
@@ -69,10 +68,6 @@ header {
     width: 100%;
     height: 240px;
     object-position: center;
-}
-
-.card img:hover {
-    transition: ease-in-out;
 }
 
 .card-title {
@@ -136,6 +131,7 @@ footer {
         display: grid;
         align-content: center;
         margin-left: 2rem;
+        font-size: 2rem;
     }
 
     .intro-col-span-2 {
