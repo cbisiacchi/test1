@@ -178,6 +178,13 @@ footer {
         justify-content: start;
         overflow-x: scroll;
     }
+
+    .work-sectio-projects1 {
+        display: flex;
+        justify-content: start;
+        overflow-x: scroll;
+        grid-column-end: 8;
+    }
 }
 
 /******* Navigation Using Flexbox *******/
