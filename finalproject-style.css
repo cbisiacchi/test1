@@ -200,7 +200,11 @@ footer {
         border-radius: 100%;
         padding: 50px;
         margin-right: 3rem;
-}
+    } 
+    
+    .contact-type img {
+        margin-right: 2rem;
+    }
 
 /******* Navigation Using Flexbox *******/
 nav {
