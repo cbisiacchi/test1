@@ -122,6 +122,8 @@ a.button:hover {
 .photo-gallery img {
     max-width: 30%;
     margin-bottom: 2rem;
+    object-fit: cover;
+    object-position: center;
 }
 
 footer {
