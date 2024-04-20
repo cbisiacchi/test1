@@ -179,15 +179,14 @@ footer {
         overflow-x: scroll;
     }
 
-    .projects1 {
+    .projects {
         display: flex;
         justify-content: center;
-        grid-column-end: 8;
     }
 
-    .projects-topic1 {
+    .projects-topic {
         background-color: rgb(219, 252, 252);
-        grid-column-start: 9;
+        border-radius: 100%;
     }
 }
 
