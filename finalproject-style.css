@@ -191,8 +191,15 @@ footer {
 
     .contact-type {
         display: flex;
+        justify-content: center;
         align-items: center;
     }
+
+    .contact-type h2 {
+        background-color: aqua;
+        border-radius: 100%;
+        padding: 50px;
+        margin-right: 3rem;
 }
 
 /******* Navigation Using Flexbox *******/
@@ -229,4 +236,5 @@ nav a:hover {
     text-decoration: none;
     color: rgb(255, 255, 255);
     transition: 0.25s;
+}
 }
