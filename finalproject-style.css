@@ -188,6 +188,11 @@ footer {
         background-color: rgb(219, 252, 252);
         border-radius: 100%;
     }
+
+    .contact-type {
+        display: flex;
+        align-items: center;
+    }
 }
 
 /******* Navigation Using Flexbox *******/
