@@ -113,6 +113,17 @@ a.button:hover {
     transition: 0.25s;
 }
 
+.photo-gallery {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.photo-gallery img {
+    max-width: 30%;
+    margin-bottom: 2rem;
+}
+
 footer {
     text-align: center;
 }
