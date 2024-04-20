@@ -179,11 +179,15 @@ footer {
         overflow-x: scroll;
     }
 
-    .work-sectio-projects1 {
+    .projects1 {
         display: flex;
-        justify-content: start;
-        overflow-x: scroll;
+        justify-content: center;
         grid-column-end: 8;
+    }
+
+    .projects-topic1 {
+        background-color: rgb(219, 252, 252);
+        grid-column-start: 9;
     }
 }
 
