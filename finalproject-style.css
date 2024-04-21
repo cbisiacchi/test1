@@ -206,6 +206,10 @@ footer {
         margin-right: 2rem;
     }
 
+    .contacts-page {
+        margin-bottom: 4rem;
+    }
+
 /******* Navigation Using Flexbox *******/
 nav {
     background-color: rgb(255, 255, 255);
