@@ -188,6 +188,9 @@ footer {
     .projects-topic {
         background-color: rgb(219, 252, 252);
         border-radius: 100%;
+        align-self: center;
+        margin-left: 10rem;
+        margin-right: 10rem;
     }
 
     .contact-type {
